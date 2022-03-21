@@ -3,3 +3,4 @@ print('김수정 202100776 컴퓨터공학부')
 # pullrequest practice-1
 
 print('Hi')
+print('python')
