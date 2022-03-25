@@ -1,4 +1,4 @@
-# Touch by Jinny(2022-03-25)
+# Touch by Jinny268(2022-03-25)
 print('학과: 컴퓨터공학부')
 print('학번: 202100776')
 print('이름: 김수정')
