@@ -5,5 +5,5 @@ print('김수정 202100776 컴퓨터공학부')
 # pullrequest practice-3
 
 # open source assignment
-print('Hi')
+print('H')
 print('python')
