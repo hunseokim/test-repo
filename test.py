@@ -9,5 +9,5 @@ print('이름: 김수정')
 # pullrequest practice-3
 
 # open source assignment
-print('Hello')
-print('python')
+# edited by hunseokim
+print('Hello\npython')
